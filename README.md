@@ -1,3 +1,4 @@
 # Aprendendo-JavaScript
 Curso Alura
-Site: https://scarletmajor.github.io/Aprendendo-JavaScript/index.html
+
+Link para o Site: https://scarletmajor.github.io/Aprendendo-JavaScript/index.html
